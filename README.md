@@ -1,7 +1,7 @@
 # RentalPS_Kel4
 
 # Nama Aplikasi
-> Rental PlayStation
+> Dayinta PlayStation
 
 ## featur
 * login
